@@ -4,6 +4,8 @@ ROIM-PICX 是一款专为高效图片采集设计的 Chrome 扩展程序。它�
 
 > 目前正在发布审核中，后期将会开源源码
 
+[Google Chrome Store]([https://help.obsidian.md](https://chromewebstore.google.com/detail/roim-picx-%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8/ndodbonnndjnbgjjgkdfdkdpldadgfea))
+
 ![侧边栏展示](docs/sidebar.png)
 
 ## ✨ 核心特性
